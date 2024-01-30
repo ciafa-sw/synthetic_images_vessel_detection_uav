@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Impact of Synthetic Images in the Training of Neural Networks for Airborne Vessel Segmentation",
+    "section": "",
+    "text": "Synthetic images have appeared as a possible solution to the scarcity of real images for training neural networks. We investigate their use in the training of ship detectors in aerial imagery. We create a synthetic dataset through 2 distinct methods: modeling and rendering with Blender, and a learning-based approach with GauGAN. YOLACT++ was chosen as the detector and its performance was evaluated when synthetic images were included in its training. The results suggest that synthetic augmentations can improve a model’s performance, under certain conditions. Adding synthetic data to large training sets degraded performance on the target domain, but significantly improved it on small datasets."
+  },
+  {
+    "objectID": "index.html#examples-from-blender",
+    "href": "index.html#examples-from-blender",
+    "title": "Impact of Synthetic Images in the Training of Neural Networks for Airborne Vessel Segmentation",
+    "section": "Examples from Blender",
+    "text": "Examples from Blender"
+  },
+  {
+    "objectID": "index.html#examples-from-gaugan",
+    "href": "index.html#examples-from-gaugan",
+    "title": "Impact of Synthetic Images in the Training of Neural Networks for Airborne Vessel Segmentation",
+    "section": "Examples from GauGAN",
+    "text": "Examples from GauGAN"
+  }
+]
